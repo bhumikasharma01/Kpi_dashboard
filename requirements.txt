@@ -1,0 +1,21 @@
+# Core Frontend & Backend
+streamlit
+fastapi
+uvicorn[standard]
+
+# Data Processing & Excel
+pandas
+openpyxl
+
+# Plotting
+matplotlib
+
+# PDF Generation (choose one or both as needed)
+fpdf
+PyMuPDF
+
+# For communication between frontend and backend
+requests
+
+# Optional: for handling file uploads
+python-multipart
