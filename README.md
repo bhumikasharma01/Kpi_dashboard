@@ -44,5 +44,10 @@ The KPI Dashboard enables organizations to track, compare, and visualize key per
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard View
+![Dashboard](screenshots/Screenshot 2025-07-31 at 1.31.48 PM)
+
 
 
